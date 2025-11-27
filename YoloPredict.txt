@@ -1,0 +1,1 @@
+yolo predict model=./Custome-Weights/yolo11_custom_weights.pt source=./Testing_Videos/test_video.mp4 show = True conf = 0.8
