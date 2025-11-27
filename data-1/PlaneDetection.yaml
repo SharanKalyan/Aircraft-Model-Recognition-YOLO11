@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/data/images/train
-val:   /content/drive/MyDrive/data/images/val
+train: /content/drive/MyDrive/data-1/images/train
+val:   /content/drive/MyDrive/data-1/images/val
 
 nc: 9
 names:
@@ -12,3 +12,4 @@ names:
   - "Boeing 747"
   - "Boeing 777"
   - "Boeing 787 Dreamliner"
+
