@@ -9,7 +9,11 @@ I’ve been running a fun experiment on identifying different airplane models. I
 
 ## Airbus A380
 
-![A380](https://github.com/user-attachments/assets/bef7216f-194b-48ee-97bb-e6363192a424)
+![A380-takeoff](https://github.com/user-attachments/assets/68321f76-0ce4-4dbb-b320-5eb2729ff102)
+
+
+![A380-landing](https://github.com/user-attachments/assets/6295f074-82e0-4774-9b3f-82db24680a47)
+
 
 ## Boeing 737
 
