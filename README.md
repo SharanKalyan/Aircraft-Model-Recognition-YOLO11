@@ -3,7 +3,7 @@ I’ve been running a fun experiment on identifying different airplane models. I
 
 # Here are some results! 
 
-![787 Dreamliner](https://github.com/user-attachments/assets/ea4d6386-f2c6-45d8-a878-258a9c9870c1)
+![787_ethihad](https://github.com/user-attachments/assets/0df42dfc-ba67-41c2-97f8-00883b45617c)
 
 ![A380](https://github.com/user-attachments/assets/bef7216f-194b-48ee-97bb-e6363192a424)
 
