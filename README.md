@@ -11,4 +11,4 @@ I’ve been running a fun experiment on identifying different airplane models. I
 
 ![Boeing777](https://github.com/user-attachments/assets/745a35e3-3742-4261-9e0e-dd781b6fe9ed)
 
-### You can find more results in ./Results directory. 
+# You can find more results in ./Results-gifs directory. 
