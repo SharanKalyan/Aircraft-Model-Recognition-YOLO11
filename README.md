@@ -3,7 +3,7 @@ I’ve been running a fun experiment on identifying different airplane models. I
 I collected around ~2,000 images (~200 images per class, which is quite low) and trained it using YOLOV11L. I also trained the images on YoloV11 Nano for speed as that would be very helpful when I deploy it on an Android App or as a webapp. 
 
 
-# Here are some results:
+# Here are some results
 
 ## Boeing 787 Dreamliner: 
 
