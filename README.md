@@ -2,6 +2,9 @@
 I’ve been running a fun experiment on identifying different airplane models. I’ve always been fascinated by aircrafts, but most of my friends can’t tell one model from another. So I decided to build a custom model that can recognize various airplane types. 
 I collected around ~2,000 images (~200 images per class, which is quite low) and trained it using YOLOV11L. I also trained the images on YoloV11 Nano for speed as that would be very helpful when I deploy it on an Android App or as a webapp. 
 
+I am also currently working on deploying the custom trained weights on hugging face for users to upload their images and identify the aircraft model. 
+the application will also be able to allow users to upload a video or even real time ip camera support. 
+
 
 # Here are some results
 
