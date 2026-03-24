@@ -7,7 +7,8 @@ the application will also be able to allow users to upload a video or even real 
 
 # The webapp: 
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/c6512796-0c4d-4aca-aab3-31978703d002" />
-# Aircraft Detections:
+
+## Aircraft Detections:
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/adcd141e-732b-456a-8475-85a38146e524" />
 
 
