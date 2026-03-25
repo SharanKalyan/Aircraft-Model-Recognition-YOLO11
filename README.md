@@ -2,8 +2,9 @@
 I’ve been running a fun experiment on identifying different airplane models. I’ve always been fascinated by aircrafts, but most of my friends can’t tell one model from another. So I decided to build a custom model that can recognize various airplane types. 
 I collected around ~2,000 images (~200 images per class, which is quite low) and trained it using YOLOV11L. I also trained the images on YoloV11 Nano for speed as that would be very helpful when I deploy it on an Android App or as a webapp. 
 
-I am currently working on deploying the custom trained weights on hugging face for users to upload their images and identify the aircraft model. 
-the application will also be able to allow users to upload a video or even real time ip camera support. 
+The System is deployed to huggingface spaces using docker 
+
+# Model deployed at: https://sharankalyan-aerolens.hf.space/
 
 # The webapp: 
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/c6512796-0c4d-4aca-aab3-31978703d002" />
