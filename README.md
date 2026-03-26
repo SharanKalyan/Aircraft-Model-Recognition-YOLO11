@@ -4,9 +4,11 @@ I collected around ~2,000 images (~200 images per class, which is quite low) and
 
 The System is deployed to huggingface spaces using docker 
 
-### Model deployed at: https://sharankalyan-aerolens.hf.space/
+ 
 
 # The webapp: 
+https://sharankalyan-aerolens.hf.space/
+
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/c6512796-0c4d-4aca-aab3-31978703d002" />
 
 ## Aircraft Detections:
